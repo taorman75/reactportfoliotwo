@@ -4,8 +4,6 @@ import { Layout, Header, Navigation, Drawer, Content } from "react-mdl"
 import Main from "./components/main";
 import { Link } from "react-router-dom";
 import Footer from "./components/Footer"
-// import NavBar from './components/NavBar';
-// import ProjectCard from './components/ProjectCard';
 
 function App() {
   return (
